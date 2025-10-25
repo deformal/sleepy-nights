@@ -1,18 +1,38 @@
 {
   "name": "sleepy-nights",
-  "displayName": "sleepy-nights",
-  "description": "A theme for those of us who like to code at night with less contrast and is easy on the eyes.",
+  "displayName": "Sleepy Nights",
+  "description": "A soothing dark theme crafted for late-night coders who value focus and comfort. Sleepy Nights blends deep, muted blues and warm beige tones to reduce strain during long sessions and keep the code readable without harsh contrasts. The palette was carefully balanced to create a calm, cozy atmosphere—like coding under a dim desk lamp at midnight. Comments and documentation are styled with soft italics, keywords glow gently in amber hues, and strings and numbers maintain a subtle distinction that’s easy on the eyes. Syntax elements remain clear and expressive, making it ideal for developers who love dark themes but want something less fatiguing than high-contrast options. Whether you’re debugging at 2 AM or polishing side projects after hours, Sleepy Nights keeps your workspace serene, elegant, and distraction-free.",
   "version": "0.0.1",
+  "publisher": "deformal",
   "engines": {
     "vscode": "^1.105.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "dark",
+    "theme",
+    "night",
+    "low contrast",
+    "minimal",
+    "comfortable",
+    "warm",
+    "vscode-theme"
+  ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#2a2f38",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/sleepy-nights"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "sleepy-nights",
+        "label": "Sleepy Nights",
         "uiTheme": "vs-dark",
         "path": "./themes/sleepy-nights-color-theme.json"
       }
