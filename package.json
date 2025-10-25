@@ -10,7 +10,7 @@
     "Themes"
   ],
   "publisher": "deformal",
-  "icon": "public/logo.png",
+  "icon": "public/icon.png",
   "repository": "https://github.com/deformal/sleepy-nights",
   "contributes": {
     "themes": [
