@@ -9,6 +9,8 @@
   "categories": [
     "Themes"
   ],
+  "publisher": "",
+  "repository": "https://github.com/deformal/sleepy-nights",
   "contributes": {
     "themes": [
       {
