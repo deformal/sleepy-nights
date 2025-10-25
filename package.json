@@ -2,14 +2,15 @@
   "name": "sleepy-nights",
   "displayName": "sleepy-nights",
   "description": "A theme for those of us who like to code at night with less contrast and is easy on the eyes.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.105.0"
+    "vscode": "^1.96.2"
   },
   "categories": [
     "Themes"
   ],
   "publisher": "deformal",
+  "icon": "public/logo.png",
   "repository": "https://github.com/deformal/sleepy-nights",
   "contributes": {
     "themes": [
