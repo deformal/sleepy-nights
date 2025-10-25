@@ -1,0 +1,21 @@
+{
+  "name": "sleepy-nights",
+  "displayName": "sleepy-nights",
+  "description": "A theme for those of us who like to code at night with less contrast and is easy on the eyes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "sleepy-nights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sleepy-nights-color-theme.json"
+      }
+    ]
+  }
+}
